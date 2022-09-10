@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/electro-nic/goit-react-hw-01-component/static/css/main.e9c767bc.css",
-    "main.js": "/electro-nic/goit-react-hw-01-component/static/js/main.6803170f.js",
-    "index.html": "/electro-nic/goit-react-hw-01-component/index.html",
-    "main.e9c767bc.css.map": "/electro-nic/goit-react-hw-01-component/static/css/main.e9c767bc.css.map",
-    "main.6803170f.js.map": "/electro-nic/goit-react-hw-01-component/static/js/main.6803170f.js.map"
+    "main.css": "/goit-react-hw-01-component/static/css/main.e9c767bc.css",
+    "main.js": "/goit-react-hw-01-component/static/js/main.6803170f.js",
+    "index.html": "/goit-react-hw-01-component/index.html",
+    "main.e9c767bc.css.map": "/goit-react-hw-01-component/static/css/main.e9c767bc.css.map",
+    "main.6803170f.js.map": "/goit-react-hw-01-component/static/js/main.6803170f.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c767bc.css",
